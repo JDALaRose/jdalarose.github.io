@@ -1,6 +1,6 @@
 title: JL
-author:
-  name: John D. A. LaRose
+#author:
+# name: John D. A. LaRose
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Notes and items of interest by John LaRose.
