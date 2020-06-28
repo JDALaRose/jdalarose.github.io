@@ -1,8 +1,5 @@
 theme: minima
 title: John LaRose
 
-header_pages:
-  - about.md
-
 minima:
-  skin: dark
+  skin: solarized
