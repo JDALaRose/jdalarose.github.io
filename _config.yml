@@ -2,4 +2,11 @@ theme: minima
 title: John LaRose
 
 minima:
-  skin: solarized
+  skin: dark
+  social_links:
+    linkedin: jdalarose
+  show_excerpts: true
+  author:
+    name: John LaRose
+  header pages:
+    - about.md
